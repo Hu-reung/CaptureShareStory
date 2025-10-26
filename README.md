@@ -55,16 +55,17 @@
 ```bash
 cd backend
 npm install
-node server.js
-
+node server.js 
+```
 실행 결과
 🚀 Server running on http://localhost:3001
 ✅ MongoDB connected
 
 ### 🔹 2. 프론트엔드 실행
+```bash
 cd frontend
 npm install
 npm run dev
-
+```
 브라우저에서 확인:
 👉 http://localhost:3000
