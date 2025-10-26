@@ -45,23 +45,7 @@
 ---
 
 ## 🗂️ 폴더 구조
-CaptureShareStory/
-├─ backend/
-│ ├─ server.js # Express 서버 (AI 분석 + DB 연결)
-│ ├─ uploads/ # 업로드된 이미지 저장 폴더
-│
-├─ frontend/
-│ ├─ app/
-│ │ ├─ dashboard/ # 대시보드 페이지
-│ │ ├─ diary/ # AI 일기 작성 페이지
-│ │ └─ layout.tsx
-│ ├─ components/ # UI 컴포넌트
-│ ├─ hooks/ # 사용자 정의 훅
-│ └─ package.json
-│
-├─ .gitignore
-├─ README.md
-└─ package.json
+<img width="524" height="604" alt="image" src="https://github.com/user-attachments/assets/4408abed-27e7-4f87-b300-e693e867436b" />
 
 ---
 
